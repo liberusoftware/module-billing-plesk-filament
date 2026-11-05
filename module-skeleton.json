@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-plesk-filament",
+  "capabilityKey": "liberusoftware/billing-plesk",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/billing-plesk-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-plesk.md",
+  "presentationPlan": "projects/billing/filament/module-billing-plesk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
